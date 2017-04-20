@@ -6,10 +6,10 @@
     android:layout_height="match_parent"
     tools:context="vinhtv.android.app.ud861.MainActivity">
 
-    <TextView
+    <TextView android:id="@+id/text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Location Goes Here"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
